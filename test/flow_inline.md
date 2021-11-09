@@ -11,6 +11,7 @@ graph TD;
     W-->D;
     E-->S;
     D-->T;
+    K-->S
 ```
 
 Goal: comment out the above, insert image ref
